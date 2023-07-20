@@ -8,47 +8,47 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: KOTIAN RAKSHITH PADMANABHA
+    tagline: Cloud DevOps Engineer
+    avatar: rakshith.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: kotianrakshith@live.com
+    phone: 9008255075
+    timezone: 
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: #blog.webjeda.com #do not add http://
+    linkedin: linkedin.com/in/kotianrakshith
+    xing: 
+    github: github.com/kotianrakshith
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Kannada, Tulu
           level: Native
 
-        - idiom: French
+        - idiom: English, Hindi
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Italian
+          level: Beginner(Internal A1 Certified)
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Reading
           link:
 
-        - item: Snowboarding
+        - item: Swimming
           link:
 
         - item: Cooking
@@ -57,208 +57,211 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Communicative, observant, and analytical thinker with 5+ years of experience in problem solving, client communication and adapting to project needs. 
+      Eager to start my career in Cloud DevOps and use the learning in DevOps and cloud certifications to contribute, learn, and grow within your organizations. 
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Post Graduate Certificate Program in DevOps
+        university: Caltech through Simplilearn (Online Bootcamp)
+        time: 2023
+        details: 
+      - degree: Bachelor of Engineering
+        university: NMAM Institute of Technology, Nitte
+        time: 2013-2017 (CGPA 9.030, Mechanical Engineering)
+        details:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Application Development Senior Analyst
+        time: 2017 - Present
+        company: Accenture India
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+         Technologies worked: SAP FINANCE (2019- Present), SAP BPC EPM (2020 – Present), BLUEPRISM RPA (2019-2021) , SAP SD (2017-2018)
+            -	Worked in small team projects, hence experience in supporting multiple technologies. Studied and researched technologies on the job and received good feedback on support provided both from client and superiors.
+            -	Worked in support projects and have handled issues in the form of Incident and solved multiple Incidents using problem solving skills. Well versed in Service-now to handle incident, create reports, etc.
+            -	Worked with clients of different countries and developed skill for simple and clear communication with people with different cultures and languages.
+            -	Worked proactively on team building during remote work due pandemic by conducting weekly connect sessions, fun games, team building activities, competitions.
+            -	Handled internal audit of the project ensuring security trainings, Access management and Documentation.
+            -	Have taken keen interest in managerial tasks and have handled several reporting tasks such as weekly team progress and record keeping tasks such as roll-off , roll-on procedures in the team for smooth transitioning and to ensure continuous work.
+            -	Deep interest in learning and have clocked every year atleast 100+ hours  in technology and security related trainings.
+      - role: 
+        time: 
+        company: 
+        details: 
+      - role:
+        time: 
+        company: 
+        details: 
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-            
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
-        - name: Git learning
-          start: 2019
+        - name: Terraform Associate (Hashicorp HCTA0-002)
+          start: 
+          end: 
+          organization: 
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: 
+        - name: AZ-400 Microsoft Certified- DevOps Engineer
+          start: 
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-        
+          organization: 
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: 
+        - name: AZ-104 Microsoft Certified- Azure Administrator
+          start: 
+          end: 
+          organization: 
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: 
+        - name: AWS Certified SysOps Administrator - Associate
+          start: 
+          end:
+          organization: 
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are the list of hands-on projects done throughout my learning. More projects are added as I grow in this field:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Capstone Project 1
+        link: https://github.com/kotianrakshith/CapstoneProject1"
+        tagline: "Deploying Banking application in Kubernetes cluster usin DevOps tools like Jenkins, Github, DockerHub, Ansible and Kubernetes."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Capstone Project 2
+        link: "https://github.com/kotianrakshith/CapstoneProject2"
+        tagline: "Deploying a micro-service application using DevOps tools like Jenkins, Github, DockerHub, Ansible and Docker in AWS EC2 Instance"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Capstone Project 3
+        link: "https://github.com/kotianrakshith/CapstoneProject3"
+        tagline: "An automated provisioned infrastructure using Terraform, EKS cluster, EC2 instances, and Jenkins server."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Azure Project 1
+        link: "https://github.com/kotianrakshith/AzureProj1"
+        tagline: "Deploying .NET Core Applications using Azure DevOps CI/CD Pipelines and Azure App Services."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Azure Project 2
+        link: "https://github.com/kotianrakshith/AzureProj2"
+        tagline: "Capstone Project 1 done through Azure Devops Pipeline, Azure Repos, ACR, Azure Kubentes Service."
+     
+      - title: Azure Project 3
+        link: "https://github.com/kotianrakshith/AzureProj3"
+        tagline: "Capstone Project 2 done through Azure Devops Pipeline, Azure Repos, ACR, Docker in VM"
+
+      - title: Azure Project 4
+        link: "https://github.com/kotianrakshith/AzureProj4"
+        tagline: "Infrastructure deployment of VM, VM Scale sets and AKS using Terraform"
+
+      - title: Other Projects
+        link: "https://github.com/kotianrakshith/otherprojects"
+        tagline: "Several of simple hands-on Project done using Devops tools like Jenkins, Github, DockerHub, Ansible, Docker and Kubernetes"
+
+        
 
 oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Soft Skills
+    intro: 
     contributions:
-      - title: Tempo
+      - title: Verbal Communication
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Able to comminicate ideas clearly and good listener. Experience in communicating with users/client of different countries and culture."
 
-      - title: Atom
+      - title: Problem Solving
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Analytical thinker, attention to detail, adaptability, and good research capability."
 
-      - title: Delta
+      - title: Collaborative and Team Buidling
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Strong teamwork and collaboration skills, ability to work well in diverse groups, willingness to share knowledge and support colleagues."
+    
+      - title: Initiative and Proactiveness
+        link: "#"
+        tagline: "Self-motivated, like to show a proactive approach to tasks and projects."
+
+      - title: Leadership
+        link: "#"
+        tagline: "Demonstrated leadership qualities,have handled small teams,, delegation skills, decision-making abilities."
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Activities
+    intro: 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Voracious reader and amateur Writer. "
+        link: 
+        authors: 
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Enjoys swimming and cycling activities for fitness. "
+        link: 
+        authors: 
+        conference: 
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Proficient in English, Hindi , Kannada, and Tulu language. Interested in learning more languages and I’m internally A1 certified in Italian."
+        link: 
+        authors: 
+        conference: 
 
+      - title: "Recognized as performer of the month Nov-2019. Also, for contributions in team building, submitting, and presenting whitepapers, technical sessions,  participating actively in company competitions."
+        link: 
+        authors: 
+        conference: 
+
+      - title: "Have volunteered in various company events and have volunteered for social non-profit causes outside the company as well."
+        link: 
+        authors: 
+        conference: 
+
+      - title: "Presented several technical session , hosted several events with wide audience and have extensive experience in public speaking."
+        link: 
+        authors: 
+        conference: 
+        
 skills:
-    title: Skills &amp; Proficiency
+    title: Technical Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Version Control- GIT (Intermediate)
+        level: 
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Continuous Integration/Continuous Deployment (CI/CD)- Jenkins (Intermediate), Azure DevOps Pipelines (Intermediate)
+        level: 
 
-      - name: Angular
-        level: 98%
+      - name: Configuration Management- Ansible (Intermediate)
+        level: 
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Infrastructure as Code (IaC)- Terraform (Intermediate)
+        level: 
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Containerization- Docker (Intermediate)
+        level: 
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Orchestration- Kubernetes (Intermediate), Azure Kubernetes Service (AKS) (Intermediate)
+        level: 
+     
+      - name: Reporting Tools- Analysis for Office, Excel (Intermediate)
+        level:       
+       
+      - name: Automation- BluePrism (RPA) (Intermediate)
+        level:       
 
+      - name: Scripting- Shell scripting (Beginner)
+        level: 
+      
+      - name: Databases- MySQL (Beginner)
+        level:
+      
+      - name: Programming Languages- Python (Beginner)
+        level:        
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
