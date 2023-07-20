@@ -234,7 +234,7 @@ skills:
       - name: Version Control- GIT , GitHub
         level: 70%
 
-      - name: Continuous Integration/Continuous Deployment (CI/CD)- Jenkins (Intermediate), Azure DevOps Pipelines 
+      - name: CI/CD- Jenkins, Azure DevOps Pipelines 
         level: 60%
 
       - name: Configuration Management- Ansible 
@@ -246,7 +246,7 @@ skills:
       - name: Containerization- Docker 
         level: 65%
 
-      - name: Orchestration- Kubernetes (Intermediate), Azure Kubernetes Service (AKS) 
+      - name: Orchestration- Kubernetes, Azure Kubernetes Service (AKS) 
         level: 75%
      
       - name: Reporting Tools- Analysis for Office, Excel 
