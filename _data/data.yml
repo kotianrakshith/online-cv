@@ -240,13 +240,13 @@ skills:
       - name: Configuration Management- Ansible 
         level: 60%
 
-      - name: Infrastructure as Code (IaC)- Terraform
+      - name: IaC- Terraform
         level: 65%
 
       - name: Containerization- Docker 
         level: 65%
 
-      - name: Orchestration- Kubernetes, Azure Kubernetes Service (AKS) 
+      - name: Orchestration- Kubernetes, AKS
         level: 75%
      
       - name: Reporting Tools- Analysis for Office, Excel 
